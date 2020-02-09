@@ -1,1 +1,6 @@
+### Private files
 telegram_token
+
+
+### Temp files
+*.swp
